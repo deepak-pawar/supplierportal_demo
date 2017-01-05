@@ -6,5 +6,6 @@ public class Sample {
 		System.out.println("This is sample project for GIT");
 		System.out.println("This is second line");
 		System.out.println("This is second location");
+		System.exit(0);
 	}
 }
